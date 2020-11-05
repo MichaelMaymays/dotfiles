@@ -8,6 +8,7 @@ This repository relies on the following programs:
 - [vim/vim](https://github.com/vim/vim)
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)
 - [zsh-users/zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting)
+
 I also use the following additional programs to improve the experience:
 - xfce4
 - xfce4-notifyd

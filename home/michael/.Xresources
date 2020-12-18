@@ -32,3 +32,6 @@
 !white
 *color7: #CCCCCC
 *color15: #FFFFFF
+
+dwm.normbordercolor: #383c4a
+dwm.selbordercolor: #5294e2

@@ -3,7 +3,7 @@
 This repository relies on the following programs:
 - [lukesmithxyz/st](https://github.com/lukesmithxyz/st)
 - [lukesmithxyz/dwmblocks](https://github.com/lukesmithxyz/dwmblocks)
-- [original-dotexe/dwm](https://github.com/original-dotexe/dwm)
+- [MichaelMaymays/dwm](https://github.com/MichaelMaymays/dwm)
 - [davatorium/rofi](https://github.com/davatorium/rofi)
 - [vim/vim](https://github.com/vim/vim)
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)
